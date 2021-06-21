@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://object-a.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-21T18:04:43.934Z</updated>
+    <title>Object.A</title>
+    <updated>2021-06-21T18:09:52.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://object-a.github.io"/>
     <link rel="self" href="https://object-a.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>対象a</subtitle>
     <logo>https://object-a.github.io/images/avatar.png</logo>
     <icon>https://object-a.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Object.A</rights>
     <entry>
         <title type="html"><![CDATA[http_etc]]></title>
         <id>https://object-a.github.io/post/etc/</id>
